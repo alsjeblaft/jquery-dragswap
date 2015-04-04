@@ -172,8 +172,6 @@
             return;
         }
 
-
-
         return this.each(function (index, item) {
             var $this = $(this);
             // select all but the disabled things
@@ -223,9 +221,6 @@
             $this.on('dragleave', settings.element, handleDragLeave);
             $this.on('drop', settings.element, handleDrop);
             $this.on('dragend', settings.element, handleDragEnd);
-
-           
-
         });
     };
 })(jQuery);
