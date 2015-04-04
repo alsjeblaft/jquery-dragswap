@@ -1,6 +1,6 @@
 /*!
- * Zepto HTML5 Drag and Drop Sortable
- * Author: James Doyle(@james2doyle) http://ohdoylerules.com
+ * jQuery HTML5 Drag and Drop Sortable
+ * Original author: James Doyle(@james2doyle) http://ohdoylerules.com
  * Repository: https://github.com/james2doyle/zepto-dragswap
  * Licensed under the MIT license
  */
